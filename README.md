@@ -1,8 +1,11 @@
 # Furniture-shop-management-system
-furniture shop  managemnt system is a desktop application developed using python language.
-first the install sqlite3 for the database
- pip install pillow for images 
-install reportlab library for report
-the furniture shop management system is a stored the all records of the customer, stock, category, bill, suppliers, etc.
-The Swaraj Furniture Shop Management System is a desktop application designed to streamline the operations of furniture stores by automating sales, inventory management, customer handling, and financial transactions. This system enhances efficiency, reduces manual workload, and improves customer experience by providing a user-friendly interface for store owners, employees, and customers.
+The Swaraj Furniture Shop Management System is a Python-based desktop application developed to automate
+and manage the daily operations of a furniture shop. The system uses SQLite3 for database management,
+Pillow for image processing, and ReportLab for generating reports.
 
+This application maintains comprehensive records of customers, stock, product categories, suppliers, and billing information.
+By automating inventory tracking, sales processing, and report generation, the system helps reduce manual effort, improve accuracy,
+and enhance operational efficiency. The user-friendly graphical interface makes it easy for shop owners and staff to manage furniture shop operations effectively
+Installation Requirements
+pip install pillow
+pip install reportlab
